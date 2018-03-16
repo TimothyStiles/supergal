@@ -1,6 +1,6 @@
 {
   "name": "supergal",
-  "version": "0.3.6",
+  "version": "0.4.0",
   "description": "Get yourself an open source license.",
   "main": "index.js",
   "scripts": {
@@ -9,9 +9,9 @@
   },
   "author": "Timothy Stiles",
   "license": "Apache-2.0",
-  "repository" :
-  { "type" : "git"
-  , "url" : "https://github.com/timothystiles/supergal.git"
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/timothystiles/supergal.git"
   },
   "bin": {
     "supergal": "./index.js"

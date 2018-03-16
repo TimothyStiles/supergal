@@ -3,8 +3,10 @@
 const program = require('commander')
 const fs = require('fs')
 const path = require('path')
+const version = require('./package.json').version
 
 program
+    .version(version, '-v, --version')
     .arguments('<license>')
     .action(function (license) {
       switch (license) {
