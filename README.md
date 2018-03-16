@@ -16,10 +16,12 @@ yarn install supergal
 
 ## usage
 
-![Usage gif](resources/usage.gif)
 ```
 supergal <license> 
 ```
+
+![Usage gif](resources/usage.gif)
+
 
 For example if you wanted to use the MIT license:
 ```
