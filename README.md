@@ -30,17 +30,12 @@ supergal mit
 
 ## building
 
-To build your own local version do the following.
+To clone and build your own local version do the following.
 
 ```
-git clone 
+git clone https://github.com/TimothyStiles/supergal.git && cd supergal && npm run build
 ```
-```
-cd supergal
-```
-```
-npm run build
-```
+
 ## contributing
 Please make a fork, and branch to work on new features. Pull request to merge.
 
