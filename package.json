@@ -1,6 +1,6 @@
 {
   "name": "supergal",
-  "version": "0.3.5",
+  "version": "0.3.6",
   "description": "Get yourself an open source license.",
   "main": "index.js",
   "scripts": {
