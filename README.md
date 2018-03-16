@@ -11,7 +11,7 @@ npm install -g supergal
 or
 
 ```
-yarn install supergal
+yarn global add supergal
 ```
 
 ## usage
